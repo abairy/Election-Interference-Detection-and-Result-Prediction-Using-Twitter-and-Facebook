@@ -42,7 +42,7 @@ Steps In running the project
 1. Training the classifier with the Positive and Negative list of words.
 cd Project
 python3.6 Train_Classifier.py
-and run Tweet_fetch.py
+and run Tweet_stream.py
 
 
 
